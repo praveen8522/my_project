@@ -1,7 +1,7 @@
 import React from 'react'
-import Navbar from './COmponent/Navbar'
+import Navbar from './Component/Navbar'
 import Home from './page/Home'
-import Footer from './COmponent/Footer'
+import Footer from './Component/Footer'
 
 const App = () => {
   return (
